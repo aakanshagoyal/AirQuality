@@ -11,7 +11,7 @@ In this research, I have used data on air pollution in India to analyse it and d
 ## [Dashboard](https://public.tableau.com/app/profile/aakansha.goyal/viz/AirPollutionLevelofIndia/Dashboard1)
 
 
-![preview](preview.png)
+![preview](dashboard.png)
 
 
 ### [Source](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
